@@ -1,12 +1,12 @@
 {
   "lianeAPI": {
-    "title": "🎀 Nea Bot",
+    "title": "🫧|SAÍ CHÍ",
     "titleFont": "bold",
     "contentFont": "fancy"
   },
   "facebookAccount": {
-    "email": "kleoish+4146@yandex.com",
-    "password": "lianecagara",
+    "email": "khlyofficial+20@yandex.ru",
+    "password": "khilaytheowner02",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -23,15 +23,15 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100075058221244"
+    "100086499831547"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Mocha | 🧋✨",
-  "prefix": "-",
+  "nickNameBot": "🫧SAÍ CHÍ",
+  "prefix": "*",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
