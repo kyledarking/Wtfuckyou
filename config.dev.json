@@ -1,12 +1,12 @@
 {
   "lianeAPI": {
-    "title": "🫧|SAÍ CHÍ",
+    "title": "DREY BOT",
     "titleFont": "bold",
     "contentFont": "fancy"
   },
   "facebookAccount": {
-    "email": "khlyofficial+20@yandex.ru",
-    "password": "khilaytheowner02",
+    "email": "",
+    "password": "",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -23,15 +23,16 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100086499831547"
+    "100082580843320", 
+    "100052395031835"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "🫧SAÍ CHÍ",
-  "prefix": "*",
+  "nickNameBot": "𝘿𝙍𝙀𝙔 𝘼𝙄🫨",
+  "prefix": ".",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
